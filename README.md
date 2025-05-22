@@ -22,7 +22,6 @@ One-Max problem is a well-known benchmark toy problem in evolutionary computatio
 
 - `InstanceGenerator/`: Python script for generating WBS instances
 - `Instance/`: 21 Benchmark instances used in the paper
-- `results/`: Experimental results of four metaheuristics (GA, PSO, IA, ILS)
 
 ---
 
