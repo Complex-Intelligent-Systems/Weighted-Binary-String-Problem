@@ -1,4 +1,4 @@
-# Weighted Binay String Problem
+# Weighted Binary String Problem
 
 This repository contains the benchmark instances and generator presented in the paper _"A Weighted Binary String Benchmark to Assess the Efficiency of Stochastic Search Pro"_
 
