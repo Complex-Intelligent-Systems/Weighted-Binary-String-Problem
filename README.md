@@ -29,9 +29,22 @@ One-Max problem is a well-known benchmark toy problem in evolutionary computatio
 
 If you use this generator or benchmark in your work, please cite:
 
-> Cutello, V., Mezzina, A., Pavone, M., Zito, F.  
-> "A Weighted Binary String Benchmark to Assess the Efficiency of Stochastic Search Processes"  
-> Manuscript accepted for publication; full bibliographic reference will be updated soon.
+@InProceedings{10.1007/978-981-95-0982-9_10,
+author="Cutello, Vincenzo
+and Mezzina, Alessio
+and Pavone, Mario
+and Zito, Francesco",
+editor="Tan, Ying
+and Shi, Yuhui",
+title="A Weighted Binary String Benchmark to Assess the Efficiency of Stochastic Search Processes",
+booktitle="Advances in Swarm Intelligence",
+year="2026",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="116--127",
+abstract="One-Max problem is a well-known benchmark toy problem in evolutionary computation, mainly used to evaluate the performance and search features of stochastic algorithms on binary strings. However, although it is one of the main toy problems used, it does not account for the importance and influence of decision variables, consequently limiting its applicability to real-world scenarios where binary choices carry different weights or costs. To address this limitation, a Weighted Binary String problem is proposed that can be seen as a variant of the One-Max problem based on weighted decision variables. We provide an open-source instance generator along with the specific instances used in our experiments. To study the nature of the proposed problem, we compare the performance of four classic metaheuristics: Genetic Algorithm, Particle Swarm Optimization, Immunological Algorithm, and Iterated Local Search. Outcomes suggest that exploitation-centric strategies yield outperforming results in this problem domain.",
+isbn="978-981-95-0982-9"
+}
 
 ---
 
